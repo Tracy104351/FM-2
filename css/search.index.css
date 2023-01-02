@@ -1,0 +1,252 @@
+.bg{
+    width: 1920px;
+    height: 1080px;
+    background-color: #E6FFE5;
+}
+
+.logo{
+    width: 618px;
+    height: 91px;
+    margin-top: 73px;
+    margin-left: 92px;
+}
+
+.left{
+    display: flex;
+    flex-flow: column wrap;
+
+}
+
+.box1{
+    width: 550px;
+    height: 157px;
+    background: #FBF3E1;
+    border: 1px solid #771E1E;
+    border-radius: 39px;
+    margin:49px 0 0 92px ;
+    display: flex;
+    flex-wrap: wrap;      
+}
+
+.text1{
+    width: 219px;
+    height: 40px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 184.02%;
+    letter-spacing: 0.26em;
+    color: #000000;
+    font-family:sans-serif ;
+    margin: 21px 0 0 47px;
+}
+
+.box{
+    width: 303px;
+    height: 67px;
+    background: #FFFFFF;
+    border: 1px solid #300000;
+    margin: 0 0 0 47px;
+    justify-content: center;    
+    align-content: center;
+}
+
+.search{
+    width: 134px;
+    height: 67px;
+    background: #00A041;
+    border-radius: 22px;
+    margin: 0 0 0 19px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.img{
+    width: 43px;
+    height: 43px;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    margin: 0 0 0 10px;
+}
+
+.ss{
+    font-weight: 700;
+    font-family:sans-serif ;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.26em;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    margin-left: 5px;
+}
+
+.gray{
+    width: 191px;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 184.02%;
+    font-family:sans-serif ;
+    color: #929292;
+    letter-spacing: 0.11em;
+    margin: 13px 0 0 17px;
+}
+
+.box2{
+    width: 550px;
+    height: 191px;
+    background: #FBF3E1;
+    border: 1px solid #771E1E;
+    border-radius: 39px;
+    margin:49px 0 0 92px ;
+    display: flex;
+    flex-wrap: wrap;      
+}
+
+.text2{
+    width: 219px;
+    height: 33px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 184.02%;
+    letter-spacing: 0.26em;
+    color: #000000;
+    font-family:sans-serif ;
+    display: flex;
+    align-items: center;
+    margin: 27px 0 0 47px;
+}
+
+.text3{
+    width: 322px;
+    height: 22px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 184.02%;
+    letter-spacing: 0.11em;
+    font-family: sans-serif;
+    color: #808080;
+    display: flex;
+    align-items: center;
+    margin: 0 0 0 47px;
+}
+
+.right{
+    /*display: flex;*/
+    flex-direction: row;
+    float: right;
+    margin-right: 90px;
+}
+
+.choice{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.smallbox{
+    width: 41px;
+    height: 41px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 6px;
+    margin: 49px 0 0 43px;
+}
+
+.smallbox2{
+    width: 41px;
+    height: 41px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 6px;
+    margin: 49px 0 0 15.99px;
+}
+
+.shop{
+    width: 222px;
+    height: 41px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.26em;
+    color: #000000;
+    margin:49px 0 0 11.09px;
+}
+
+.ad{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.adtext1{
+    font-family: sans-serif;
+    letter-spacing: 0.26em;
+    color: #737373;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 184.02%;
+    letter-spacing: 0.26em;
+    color: #737373;
+    display: flex;
+    align-items: center;
+}
+
+.adbox{
+    width: 997px;
+    height: 67px;
+    background: #FFFFFF;
+    border: 1px solid #300000;
+    display: flex;   
+    margin: 20px 0 0 43px; 
+}
+
+.img2{
+    margin-left: 0 0 0 10px;
+}
+
+.adtext2{
+    font-family: sans-serif;
+    letter-spacing: 0.26em;
+    color: #737373;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 184.02%;
+    letter-spacing: 0.11em;
+    color: #A2A2A2;
+    display: flex;
+    align-items: center;
+    margin: 0 0 0 41px;
+}
+
+.search2{
+    width: 134px;
+    height: 67px;
+    background: #00A041;
+    border-radius: 22px;
+    margin: 20px 0 0 14px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.bigbox{
+    width: 1144px;
+    height: 661px;
+    background: #FBF8E1;
+    border: 1px solid #8D4848;
+    border-radius: 45px;
+    margin-top: 20px;
+    margin-left: 43px;
+}
+
+.taiwan{
+    width: 829px;
+    height: 661px;
+    margin-left: 149px;
+}
